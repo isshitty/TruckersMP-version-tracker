@@ -38,8 +38,8 @@
 ### 3. Configure the Bot in the Code
 
 1. Download or clone the code from this repository.
-2. Open the bot's code in your favorite text editor (e.g., VSCode, Sublime).
-3. Find the section where the token is required. It should look something like this:
+2. Open the bot's code in any text editor (e.g., VSCode, PyCharm).
+3. At the bottom of the code, you need to paste your token. Look for this line:
 
     ```python
     bot.run('YOUR_BOT_TOKEN')
@@ -56,11 +56,7 @@
 ### 4. Run Your Bot
 
 1. Make sure you have [Python](https://www.python.org/downloads/) installed.
-2. Start the bot with the following command:
-
-    ```bash
-    python bot.py
-    ```
+2. Start the bot by running the Python file.
 
 Your bot should now be running and available on your server!
 
